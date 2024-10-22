@@ -13,9 +13,11 @@ A modern, responsive currency exchange web application built with React. The app
 
 ## Script
 
+```bash
 npm i
 npm run dev
 npm run test
+```
 
 ## Technologies Used
 
